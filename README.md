@@ -5,7 +5,7 @@ Integro a engenharia à análise de dados, para criar soluções eficientes e au
 
 Me considero autodidacta. Atualmente, estou estudando engenharia elétrica na UNISO, sempre buscando me envolver em projetos em que possa aplicar meus conhecimentos em análise de dados, administração e IoT. Na faculdade, atuo com meu grupo para desenvolver trabalhos inovadores e sustentáveis, aproveitando cada semestre como um grande aprendizado. 
 
-[![Minhas Skills](https://skillicons.dev/icons?i=py,sqlite,powerbi,autocad,github,vscode,figma&theme=dark)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=py,sqlite,autocad,github,vscode,notion,figma&theme=dark)](https://skillicons.dev)
 
 
 <!--
