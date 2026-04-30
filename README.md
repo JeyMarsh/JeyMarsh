@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! Eu sou o Júlio Cesar / Jey Marsh 👋
+
+### Sobre mim 💻
+Integro a engenharia à análise de dados, para criar soluções eficientes e autônomas. Trabalho com Python, Power BI, Excel, SQL, AutoCAD e GIT para dar forma aos meus projetos. 
+
+Me considero autodidacta. Atualmente, estou estudando engenharia elétrica na UNISO, sempre buscando me envolver em projetos em que possa aplicar meus conhecimentos em análise de dados, administração e IoT. Na faculdade, atuo com meu grupo para desenvolver trabalhos inovadores e sustentáveis, aproveitando cada semestre como um grande aprendizado. 
+
+[![Minhas Skills](https://skillicons.dev/icons?i=python,sql,powerbi,github,vscode&theme=dark)](https://skillicons.dev)
+
 
 <!--
-**JeyMarsh/JeyMarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡Fatos Interessantes: Já estudei design e artes digitais por conta própria, o que contribui para aprimorar os visuais dos meus trabalhos. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
